@@ -1,0 +1,17 @@
+.service-circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.service-circle .image-wrapper{
+    height: 8rem;
+    width: 8rem;
+    border-radius: 50%;
+    border:5px solid #9F74B9;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin: 3.8rem;  
+}

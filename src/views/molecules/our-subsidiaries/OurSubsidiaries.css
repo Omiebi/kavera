@@ -1,0 +1,26 @@
+.our-subsidiaries .container{
+    padding: 0 12.6rem;
+}
+
+
+
+.our-subsidiaries .title-section{
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 4.6rem;
+}
+
+.our-subsidiaries .subsidiaries-con{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    row-gap: 8.5rem;
+}
+
+.our-subsidiaries .subsidiaries-wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+

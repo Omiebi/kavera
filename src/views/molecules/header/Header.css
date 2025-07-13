@@ -1,0 +1,34 @@
+.header-feature {
+}
+.header-feature .container {
+  padding: 3rem 8.2rem 5.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-feature .header-details-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.header-feature .header-image {
+}
+.header-feature .header-links-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 12rem;
+}
+.header-feature .header-links {
+  column-gap: 4rem;
+  font-size: 1.6rem;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  justify-content: center;
+  color: #000000;
+}
+.header-feature .header-links a {
+  color: #000000;
+}

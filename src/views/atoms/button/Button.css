@@ -1,0 +1,19 @@
+.btn-component{
+    height: 7.3rem;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 2.4rem;
+    display: inline-flex;
+    padding: 0 4.9rem;
+    background-color: #9F74B9;
+    color: #fff;
+}
+
+.btn-component.invert{
+    background-color: #ffff;
+    color: #9F74B9;
+}
+

@@ -1,0 +1,15 @@
+.value-title-component {
+  display: flex;
+  align-items: center;
+  column-gap: 1rem;
+}
+.value-title-component .value-t{
+    font-weight: 700;
+    font-size: 2rem;
+}
+.value-title-component .value-title-1{
+    color: #FFFF;
+}
+.value-title-component .value-title-2{
+    color: #FFFF;
+}

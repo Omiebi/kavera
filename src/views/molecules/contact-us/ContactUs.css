@@ -1,0 +1,21 @@
+.contact-us{
+    background-color: #9F74B9;
+}
+
+.contact-us .container{
+    padding: 6.7rem 26.1rem 2.6rem ;
+}
+
+.contact-us .contact-us-text{
+    color: #FFFFFF;
+    font-size: 3.6rem;
+    font-weight: 700;
+    line-height: 130%;
+    margin-bottom: 0.8rem;
+}
+
+.contact-us .btn-wrapper{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

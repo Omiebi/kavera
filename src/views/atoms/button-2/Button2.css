@@ -1,0 +1,14 @@
+.btn-component-2{
+    height: 6.7rem;
+    width: 6.7rem;
+    background-color: #9F74B9;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 2.4rem;
+    display: inline-flex;   
+}
+

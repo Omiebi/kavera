@@ -1,0 +1,23 @@
+.our-services .container {
+  padding: 12.6rem 12.6rem;
+}
+
+.our-services .content {
+}
+
+.our-services .highlight {
+  color: #28222b;
+  font-size: 4rem;
+  margin-bottom: 4.6rem;
+  text-align: center;
+}
+
+.our-services .about-highlight {
+  color: #9f74b9;
+}
+
+.our-services .service-circle-wrapper{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 7.5rem; 
+}

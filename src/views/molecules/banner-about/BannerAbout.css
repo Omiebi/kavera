@@ -1,0 +1,44 @@
+.banner-about {
+  width: 100%;
+}
+
+.banner-about .banner-about {
+}
+
+.banner-about .container {
+  padding: 0 6.3rem;
+  margin-bottom: 5rem;
+}
+
+.banner-about .deliver-note {
+  color: #28222b;
+  font-weight: 600;
+  font-size: 4rem;
+  line-height: 100%;
+  text-align: center;
+  margin-bottom: 5rem;
+}
+.banner-about .image-wrapper {
+  width: 100%;
+  height: 78.5rem;
+  position: relative;
+  background-image: url(../../../assets/images/deliver-image.svg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* padding: 20.6rem 42.4rem 8.5rem 17rem; */
+  justify-content: center;
+  display: flex;
+  align-items: center; 
+}
+
+.banner-about .deliver {
+  font-size: 3.6rem;
+  color: #FFFFFF;
+  padding: 2.5rem 4.1rem;
+  background-color: #9F74B9;
+  border-radius: 3rem 5rem 3rem 5rem;
+  font-weight: 700;
+  max-width: 76.4rem;
+  width: 100%;
+}

@@ -1,0 +1,30 @@
+
+
+.about-sub .container {
+  display: flex;
+  column-gap: 3.7rem;
+  padding: 0 6.3rem;
+ 
+}
+.about-sub .content {
+    width: 50.4rem;
+    height: 35.6rem;
+}
+.about-sub .details {
+     height: 24.5rem;
+     margin-top: 5.5rem;
+}
+.about-sub .info-details {
+    width: 71.8rem;
+    font-weight: 400;
+    font-size: 2.4rem;
+    line-height: 3.5rem;
+    margin-bottom: 3rem;  
+}
+
+.about-sub .info-details-2 {
+    width: 71.8rem;
+    font-weight: 400;
+    font-size: 2.4rem;
+    line-height: 3.5rem;
+}
