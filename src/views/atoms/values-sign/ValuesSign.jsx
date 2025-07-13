@@ -9,7 +9,6 @@ const ValuesSign = ({img, title}) => {
       </div>
       <p  className='title'>
         {title}
-
       </p>
     </div>
   );
