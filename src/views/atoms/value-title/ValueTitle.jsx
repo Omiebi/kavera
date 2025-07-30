@@ -6,7 +6,6 @@ const ValueTitle = ({title1, title2}) => {
     <div className='value-title-component'>
         <p className='value-t value-title-1'>{title1}</p>
         <p className='value-t value-title-2'>{title2}</p>
-
     </div>
   )
 }

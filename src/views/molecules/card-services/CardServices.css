@@ -1,0 +1,17 @@
+.card-component {
+  width: 42.9rem;
+  height: 23.1rem;
+}
+.card-component .btn-round-wrapper{
+     place-items: center;
+     margin-bottom: 6.1rem;
+}
+.card-component .card-component-title {
+  font-weight: 600;
+  font-size: 1.8rem;
+}
+.card-component .card-component-info {
+    font-size: 1.6rem;
+    font-weight: 300;
+    line-height: 200%;
+}

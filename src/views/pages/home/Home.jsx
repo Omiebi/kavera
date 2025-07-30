@@ -11,6 +11,7 @@ import Header from '../../molecules/header/Header';
 
 
 
+
 const Home = () => {
   return (
     <div className='home-component'>

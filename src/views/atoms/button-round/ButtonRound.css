@@ -1,0 +1,10 @@
+.button-round{
+    background-color: #F1EBF5;
+    height: 4.2rem;
+    width: 4.2rem;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

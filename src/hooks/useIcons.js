@@ -22,6 +22,10 @@ import storyImg1 from '../assets/images/story-img-1.svg'
 import storyImg2 from '../assets/images/story-img-2.svg'
 import storyImg3 from '../assets/images/story-img-3.svg'
 import goodSign from '../assets/images/good-sign.svg'
+import servicePic from '../assets/images/services-pic-1.svg'
+import imageOne from '../assets/images/image-one.svg'
+import imageTwo from '../assets/images/image-two.svg'
+import people from '../assets/images/people.svg'
 
 
 
@@ -52,7 +56,11 @@ export const useIcons =  () => {
       storyImg1,
       storyImg2,
       storyImg3,
-      goodSign
+      goodSign,
+      servicePic,
+      imageOne,
+      imageTwo,
+      people,
     };
 }
 
